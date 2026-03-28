@@ -1,0 +1,3 @@
+repository "Terrain Learning@local"
+  path "/"
+    smartbranch "/main"
